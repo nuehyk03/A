@@ -1,0 +1,16 @@
+2주차 수업내용
+-linux 명령어 기초
+-git 명령어 기초
+commit 개념
+add
+버전관리
+
+git init 
+git status 
+git add
+git rm 
+git commit
+git log- commit된 기록
+git branch -M main
+git remote add origin 
+git push -u origin main
